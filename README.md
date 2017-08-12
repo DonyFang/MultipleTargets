@@ -1,0 +1,2 @@
+# MultipleTargets
+这是一个小的demo演示了如何在一个项目中创建多个target
